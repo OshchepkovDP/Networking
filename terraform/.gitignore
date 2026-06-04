@@ -1,0 +1,9 @@
+# Секреты Terraform
+*.tfvars
+*.tfvars.json
+
+# Состояние
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/
+.terraform.lock.hcl
