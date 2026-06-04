@@ -67,20 +67,23 @@ Resource Terraform:
 
 ### Задание 1.
 
-Скриншот
-![]()
+Скриншот выполнения команды terraform_apply
+![terraform_apply_1.jpg](https://github.com/OshchepkovDP/Networking/blob/main/img/terraform_apply_1.jpg)
 
-Скриншот
-![]()
+Скриншот подтверждающий создание виртуальных машин в яндекс-облако
+![VM.jpg](https://github.com/OshchepkovDP/Networking/blob/main/img/VM.jpg)
 
-Скриншот
-![]()
+Скриншот подтверждающий создание сети vpc
+![my-vpc.jpg](https://github.com/OshchepkovDP/Networking/blob/main/img/my-vpc.jpg)
 
-Скриншот
-![]()
+Скриншот подключения к публичной виртуальной машине
+![ssh_public_vm.jpg](https://github.com/OshchepkovDP/Networking/blob/main/img/ssh_public_vm.jpg)
 
-Скриншот
-![]()
+Скриншот подтверждающий создание route-table направляющий весь исходящий трафик private сети в NAT-инстанс 
+![private-route-table.jpg](https://github.com/OshchepkovDP/Networking/blob/main/img/private-route-table.jpg)
+
+Скриншот подключения к приватной виртуальной машине
+![ssh_privat_vm.jpg](https://github.com/OshchepkovDP/Networking/blob/main/img/ssh_privat_vm.jpg)
 
 ## Задание 2.
 
